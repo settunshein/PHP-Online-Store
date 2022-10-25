@@ -6,7 +6,7 @@
 05 : Checkout Data Validation
 06 : Unlink Image
 07 : Redirect After Authenticated
-08 : Code Refactoring ( Expecially functions.php )
+08 : Code Refactoring ( Especially functions.php )
 09 : Search by Movie Name ( User Side )
 10 : Customer Dashboard ( User Side )
 
